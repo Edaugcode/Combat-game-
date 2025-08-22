@@ -3,7 +3,7 @@ import random
 player_stats = {"health": 100,
                 "damage_min": 5,
                 "damage_max": 15,
-                "gold": 200,
+                "gold": 0,
                 "weapons": [],
                 "armor": [],
                 "xp": 0,
@@ -54,3 +54,4 @@ enchanted_armor = {"health": 100,
                     "damage_max": 20,
                     "cost": 50,
                     "name": "enchanted armor"}
+
